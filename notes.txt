@@ -1,1 +1,2 @@
 interesting notes agbout git
+ changes 
